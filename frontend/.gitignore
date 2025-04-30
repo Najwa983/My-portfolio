@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+.cache/
+
+# Env vars
+.env
+
+# Optional macOS metadata (inutile sous Linux mais safe)
+.DS_Store
+
